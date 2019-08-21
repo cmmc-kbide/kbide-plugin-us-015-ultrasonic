@@ -1,0 +1,16 @@
+{
+  "name" : "kbide-plugin-us-015-ultrasonic",
+  "title": "us-015-ultrasonic",
+  "keywords": "us-015-ultrasonic, esp32, esp8266, arduino",
+  "description": "Plugin us-015-ultrasonic for KB-IDE",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-us-015-ultrasonic/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-us-015-ultrasonic/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
